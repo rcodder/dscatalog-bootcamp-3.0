@@ -1,0 +1,5 @@
+package com.robsonpereira.dscalog.resources;
+
+public class CategoryResource {
+
+}

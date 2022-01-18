@@ -1,0 +1,9 @@
+package com.robsonpereira.dscalog.entities;
+
+public class Category {
+	
+	private Long id;
+	private String name;
+	
+	
+}

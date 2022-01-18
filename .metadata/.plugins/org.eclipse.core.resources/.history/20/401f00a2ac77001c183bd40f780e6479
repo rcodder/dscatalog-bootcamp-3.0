@@ -1,0 +1,5 @@
+package com.robsonpereira.dscalog.entities;
+
+public class Category {
+
+}
