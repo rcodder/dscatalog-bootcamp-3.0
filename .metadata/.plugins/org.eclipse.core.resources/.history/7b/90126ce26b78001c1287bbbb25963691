@@ -1,0 +1,15 @@
+package com.robsonpereira.dscalog.services;
+
+import java.util.List;
+
+import org.springframework.stereotype.Service;
+
+import com.robsonpereira.dscalog.entities.Category;
+
+@Service
+public class CategoryService {
+
+	public List<Category> findAll() {
+		
+	}
+}

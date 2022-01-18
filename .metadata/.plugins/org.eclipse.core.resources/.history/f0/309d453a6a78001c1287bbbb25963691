@@ -1,0 +1,5 @@
+package com.robsonpereira.dscalog.repositories;
+
+public class CategoryRepository {
+
+}

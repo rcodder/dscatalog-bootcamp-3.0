@@ -1,0 +1,5 @@
+package com.robsonpereira.dscalog.services;
+
+public class CategoryService {
+
+}
