@@ -1,0 +1,5 @@
+package com.robsonpereira.dscalog.dto;
+
+public class CategoryDTO {
+
+}
