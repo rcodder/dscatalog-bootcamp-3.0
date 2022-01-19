@@ -1,0 +1,5 @@
+package com.robsonpereira.dscalog.resources.exceptions;
+
+public class SourceExceptionHandler {
+
+}
