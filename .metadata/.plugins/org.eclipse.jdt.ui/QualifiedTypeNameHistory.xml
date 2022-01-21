@@ -33,4 +33,6 @@
     <fullyQualifiedTypeName name="com.robsonpereira.dscalog.services.exceptions.EntityNotFoundException"/>
     <fullyQualifiedTypeName name="org.springframework.dao.EmptyResultDataAccessException"/>
     <fullyQualifiedTypeName name="org.springframework.dao.DataIntegrityViolationException"/>
+    <fullyQualifiedTypeName name="javax.persistence.Column"/>
+    <fullyQualifiedTypeName name="javax.persistence.PrePersist"/>
 </qualifiedTypeNameHistroy>
